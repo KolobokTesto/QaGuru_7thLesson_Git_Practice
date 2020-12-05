@@ -37,3 +37,4 @@ target/
 /gradlew.bat
 .todo
 local.properties
+/settings.gradle
